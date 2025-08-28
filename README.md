@@ -4,4 +4,4 @@ Sem - 3<br>
 Sec - A<br>
 Rollno - 73<br>
 Enrollno - 12024002028070<br>
-Sub - Placement Training (Competetive Coding) Assignment 3<br>
+Sub - Placement Training (Competetive Coding) Assignment 3.<br>
